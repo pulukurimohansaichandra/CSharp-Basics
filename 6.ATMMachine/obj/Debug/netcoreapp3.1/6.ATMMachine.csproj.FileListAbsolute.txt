@@ -1,0 +1,13 @@
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\obj\Debug\netcoreapp3.1\6.ATMMachine.csprojAssemblyReference.cache
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\obj\Debug\netcoreapp3.1\6.ATMMachine.AssemblyInfoInputs.cache
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\obj\Debug\netcoreapp3.1\6.ATMMachine.AssemblyInfo.cs
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\obj\Debug\netcoreapp3.1\6.ATMMachine.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\bin\Debug\netcoreapp3.1\6.ATMMachine.exe
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\bin\Debug\netcoreapp3.1\6.ATMMachine.deps.json
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\bin\Debug\netcoreapp3.1\6.ATMMachine.runtimeconfig.json
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\bin\Debug\netcoreapp3.1\6.ATMMachine.runtimeconfig.dev.json
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\bin\Debug\netcoreapp3.1\6.ATMMachine.dll
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\bin\Debug\netcoreapp3.1\6.ATMMachine.pdb
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\obj\Debug\netcoreapp3.1\6.ATMMachine.dll
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\obj\Debug\netcoreapp3.1\6.ATMMachine.pdb
+C:\Users\mohan\Documents\Dot net course\6.ATMMachine\obj\Debug\netcoreapp3.1\6.ATMMachine.genruntimeconfig.cache

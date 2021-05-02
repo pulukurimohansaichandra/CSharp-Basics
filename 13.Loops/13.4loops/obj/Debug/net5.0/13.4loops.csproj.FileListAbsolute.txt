@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\bin\Debug\net5.0\13.4loops.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\bin\Debug\net5.0\13.4loops.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\bin\Debug\net5.0\13.4loops.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\bin\Debug\net5.0\13.4loops.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\bin\Debug\net5.0\13.4loops.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\bin\Debug\net5.0\ref\13.4loops.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\bin\Debug\net5.0\13.4loops.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\ref\13.4loops.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.4loops\obj\Debug\net5.0\13.4loops.genruntimeconfig.cache

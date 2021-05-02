@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2swLVu/IXaJe/Cq5mdDvmlxCnsLDfbLhEeySHyOApAjXgCI52uN7BGT+Fz42mcVO4nwptBYdoFgsJg22ehYhxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\2.TicketBooking\\2.TicketBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohan Sai Chandra .P\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtyz8jJbXuRuwqhlie3M++7dYk/9X4h9Pc8GWzbglik6xNrsUoypD74bNMFXQeDowHJe6jS8a30nCOyhfwx2eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\4.FacebookPage\\4.FacebookPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohan Sai Chandra .P\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

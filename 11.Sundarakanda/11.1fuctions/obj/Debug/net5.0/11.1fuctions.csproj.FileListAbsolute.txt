@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\bin\Debug\net5.0\11.1fuctions.exe
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\bin\Debug\net5.0\11.1fuctions.deps.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\bin\Debug\net5.0\11.1fuctions.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\bin\Debug\net5.0\11.1fuctions.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\bin\Debug\net5.0\11.1fuctions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\bin\Debug\net5.0\ref\11.1fuctions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\bin\Debug\net5.0\11.1fuctions.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\ref\11.1fuctions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\11.1fuctions\obj\Debug\net5.0\11.1fuctions.genruntimeconfig.cache

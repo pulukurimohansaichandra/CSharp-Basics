@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\bin\Debug\net5.0\9.Conditions.exe
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\bin\Debug\net5.0\9.Conditions.deps.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\bin\Debug\net5.0\9.Conditions.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\bin\Debug\net5.0\9.Conditions.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\bin\Debug\net5.0\9.Conditions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\bin\Debug\net5.0\ref\9.Conditions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\bin\Debug\net5.0\9.Conditions.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\ref\9.Conditions.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\obj\Debug\net5.0\9.Conditions.genruntimeconfig.cache

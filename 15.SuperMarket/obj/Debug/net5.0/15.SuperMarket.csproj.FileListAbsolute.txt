@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\bin\Debug\net5.0\15.SuperMarket.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\bin\Debug\net5.0\15.SuperMarket.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\bin\Debug\net5.0\15.SuperMarket.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\bin\Debug\net5.0\15.SuperMarket.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\bin\Debug\net5.0\15.SuperMarket.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\bin\Debug\net5.0\ref\15.SuperMarket.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\bin\Debug\net5.0\15.SuperMarket.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\ref\15.SuperMarket.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\15.SuperMarket\obj\Debug\net5.0\15.SuperMarket.genruntimeconfig.cache

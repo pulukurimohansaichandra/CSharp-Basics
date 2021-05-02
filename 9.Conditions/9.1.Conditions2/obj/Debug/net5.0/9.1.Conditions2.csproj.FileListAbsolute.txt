@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\bin\Debug\net5.0\9.1.Conditions2.exe
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\bin\Debug\net5.0\9.1.Conditions2.deps.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\bin\Debug\net5.0\9.1.Conditions2.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\bin\Debug\net5.0\9.1.Conditions2.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\bin\Debug\net5.0\9.1.Conditions2.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\bin\Debug\net5.0\ref\9.1.Conditions2.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\bin\Debug\net5.0\9.1.Conditions2.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\ref\9.1.Conditions2.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\9.Conditions\9.1.Conditions2\obj\Debug\net5.0\9.1.Conditions2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\bin\Debug\net5.0\13.5Additonandmultiplication.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\bin\Debug\net5.0\13.5Additonandmultiplication.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\bin\Debug\net5.0\13.5Additonandmultiplication.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\bin\Debug\net5.0\13.5Additonandmultiplication.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\bin\Debug\net5.0\13.5Additonandmultiplication.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\bin\Debug\net5.0\ref\13.5Additonandmultiplication.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\bin\Debug\net5.0\13.5Additonandmultiplication.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\ref\13.5Additonandmultiplication.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.5Additonandmultiplication\obj\Debug\net5.0\13.5Additonandmultiplication.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3lNyo13tKUzrvtOdzh8HivuJxuZVn+Np/K8lfiWZjWAxltSxCHTD6yJ3VAS+gBx08CJNE2E3pD6OAO41Tevfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\7.Aadharcard\\7.Aadharcard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohan Sai Chandra .P\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

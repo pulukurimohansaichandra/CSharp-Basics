@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\bin\Debug\net5.0\17.Classes.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\bin\Debug\net5.0\17.Classes.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\bin\Debug\net5.0\17.Classes.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\bin\Debug\net5.0\17.Classes.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\bin\Debug\net5.0\17.Classes.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\bin\Debug\net5.0\ref\17.Classes.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\bin\Debug\net5.0\17.Classes.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\ref\17.Classes.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\17.Classes\obj\Debug\net5.0\17.Classes.genruntimeconfig.cache

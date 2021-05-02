@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\7.Aadharcard\\7.Aadharcard.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\7.Aadharcard\\7.Aadharcard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\7.Aadharcard\\7.Aadharcard.csproj",
+        "projectName": "7.Aadharcard",
+        "projectPath": "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\7.Aadharcard\\7.Aadharcard.csproj",
+        "packagesPath": "C:\\Users\\Mohan Sai Chandra .P\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\7.Aadharcard\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohan Sai Chandra .P\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.11, 3.1.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

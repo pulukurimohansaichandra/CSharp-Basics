@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\bin\Debug\net5.0\14.BankProject.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\bin\Debug\net5.0\14.BankProject.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\bin\Debug\net5.0\14.BankProject.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\bin\Debug\net5.0\14.BankProject.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\bin\Debug\net5.0\14.BankProject.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\bin\Debug\net5.0\ref\14.BankProject.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\bin\Debug\net5.0\14.BankProject.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\ref\14.BankProject.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\14.BankProject\obj\Debug\net5.0\14.BankProject.genruntimeconfig.cache

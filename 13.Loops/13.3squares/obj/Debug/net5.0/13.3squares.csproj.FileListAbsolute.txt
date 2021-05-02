@@ -1,0 +1,32 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\bin\Debug\net5.0\ref\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\ref\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.genruntimeconfig.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\bin\Debug\net5.0\ref\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\bin\Debug\net5.0\13.3squares.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\ref\13.3squares.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\13.Loops\13.3squares\obj\Debug\net5.0\13.3squares.genruntimeconfig.cache

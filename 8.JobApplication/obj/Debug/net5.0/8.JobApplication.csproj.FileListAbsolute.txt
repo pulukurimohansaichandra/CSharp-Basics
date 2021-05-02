@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\bin\Debug\net5.0\8.JobApplication.exe
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\bin\Debug\net5.0\8.JobApplication.deps.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\bin\Debug\net5.0\8.JobApplication.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\bin\Debug\net5.0\8.JobApplication.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\bin\Debug\net5.0\8.JobApplication.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\bin\Debug\net5.0\ref\8.JobApplication.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\bin\Debug\net5.0\8.JobApplication.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\ref\8.JobApplication.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\8.JobApplication\obj\Debug\net5.0\8.JobApplication.genruntimeconfig.cache

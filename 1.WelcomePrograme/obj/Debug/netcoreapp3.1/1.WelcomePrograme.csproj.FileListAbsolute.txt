@@ -1,0 +1,13 @@
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\obj\Debug\netcoreapp3.1\1.WelcomePrograme.csprojAssemblyReference.cache
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\obj\Debug\netcoreapp3.1\1.WelcomePrograme.AssemblyInfoInputs.cache
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\obj\Debug\netcoreapp3.1\1.WelcomePrograme.AssemblyInfo.cs
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\obj\Debug\netcoreapp3.1\1.WelcomePrograme.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\bin\Debug\netcoreapp3.1\1.WelcomePrograme.exe
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\bin\Debug\netcoreapp3.1\1.WelcomePrograme.deps.json
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\bin\Debug\netcoreapp3.1\1.WelcomePrograme.runtimeconfig.json
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\bin\Debug\netcoreapp3.1\1.WelcomePrograme.runtimeconfig.dev.json
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\bin\Debug\netcoreapp3.1\1.WelcomePrograme.dll
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\bin\Debug\netcoreapp3.1\1.WelcomePrograme.pdb
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\obj\Debug\netcoreapp3.1\1.WelcomePrograme.dll
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\obj\Debug\netcoreapp3.1\1.WelcomePrograme.pdb
+C:\Users\mohan\Documents\Dot net course\1.WelcomePrograme\obj\Debug\netcoreapp3.1\1.WelcomePrograme.genruntimeconfig.cache

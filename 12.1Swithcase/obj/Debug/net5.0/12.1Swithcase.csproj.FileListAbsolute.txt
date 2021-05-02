@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\bin\Debug\net5.0\12.1Swithcase.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\bin\Debug\net5.0\12.1Swithcase.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\bin\Debug\net5.0\12.1Swithcase.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\bin\Debug\net5.0\12.1Swithcase.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\bin\Debug\net5.0\12.1Swithcase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\bin\Debug\net5.0\ref\12.1Swithcase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\bin\Debug\net5.0\12.1Swithcase.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\ref\12.1Swithcase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\12.1Swithcase\obj\Debug\net5.0\12.1Swithcase.genruntimeconfig.cache

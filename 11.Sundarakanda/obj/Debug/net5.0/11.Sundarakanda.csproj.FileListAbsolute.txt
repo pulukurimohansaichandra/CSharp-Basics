@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\bin\Debug\net5.0\11.Sundarakanda.exe
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\bin\Debug\net5.0\11.Sundarakanda.deps.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\bin\Debug\net5.0\11.Sundarakanda.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\bin\Debug\net5.0\11.Sundarakanda.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\bin\Debug\net5.0\11.Sundarakanda.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\bin\Debug\net5.0\ref\11.Sundarakanda.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\bin\Debug\net5.0\11.Sundarakanda.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\ref\11.Sundarakanda.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\11.Sundarakanda\obj\Debug\net5.0\11.Sundarakanda.genruntimeconfig.cache

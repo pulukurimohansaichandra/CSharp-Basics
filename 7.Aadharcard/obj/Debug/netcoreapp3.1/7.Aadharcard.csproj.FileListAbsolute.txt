@@ -1,0 +1,26 @@
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.csprojAssemblyReference.cache
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.AssemblyInfoInputs.cache
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.AssemblyInfo.cs
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.csproj.CoreCompileInputs.cache
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.exe
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.deps.json
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.runtimeconfig.json
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.runtimeconfig.dev.json
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.dll
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.pdb
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.dll
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.pdb
+C:\Users\mohan\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.genruntimeconfig.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.exe
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.deps.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\bin\Debug\netcoreapp3.1\7.Aadharcard.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.dll
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.pdb
+C:\Users\Mohan Sai Chandra .P\Documents\Dot net course\7.Aadharcard\obj\Debug\netcoreapp3.1\7.Aadharcard.genruntimeconfig.cache

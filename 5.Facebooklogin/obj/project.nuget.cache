@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yIfwLdcUKsNOF/rpANXfpE1BV+A2fjzz9g8isHj5W2QFqcLmr0Iwp34PH+KBrPgynpCv4LHSc76YSdmPia+Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohan Sai Chandra .P\\Documents\\Dot net course\\5.Facebooklogin\\5.Facebooklogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohan Sai Chandra .P\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
