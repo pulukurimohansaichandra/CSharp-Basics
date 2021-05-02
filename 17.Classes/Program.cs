@@ -194,9 +194,9 @@ namespace _17.Classes
 
                     _userBreadBoard = value;
                     _breadBoard = _breadBoard - value;
-                    _userResistor = _userResistor + 1;
-                    _userTransistor = _userTransistor + 1;
-                    _userDiodes = _userDiodes + 1;
+                    _userResistor = _userResistor + _userBreadBoard;
+                    _userTransistor = _userTransistor + _userBreadBoard;
+                    _userDiodes = _userDiodes + _userBreadBoard;
 
                 }
 
@@ -239,7 +239,7 @@ namespace _17.Classes
             Console.WriteLine($" BreadBoard         {_userBreadBoard}    ");
             Console.WriteLine($" DcMotors           {_userDcmotors}      ");
             Console.WriteLine($"-------------------------------------");
-            Console.WriteLine($"Total                {_userResistor + _userTransistor + _userDiodes + _userDcmotors}");
+            Console.WriteLine($"Total                {_userResistor + _userTransistor + _userDiodes + _userDcmotors+_userBreadBoard}");
             Console.WriteLine("-------------------------------------");
 
 
