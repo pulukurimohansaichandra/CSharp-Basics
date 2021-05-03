@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\bin\Debug\net5.0\18.ClassesUsingEmployeeDetails.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\bin\Debug\net5.0\18.ClassesUsingEmployeeDetails.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\bin\Debug\net5.0\18.ClassesUsingEmployeeDetails.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\bin\Debug\net5.0\18.ClassesUsingEmployeeDetails.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\bin\Debug\net5.0\18.ClassesUsingEmployeeDetails.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\bin\Debug\net5.0\ref\18.ClassesUsingEmployeeDetails.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\bin\Debug\net5.0\18.ClassesUsingEmployeeDetails.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\ref\18.ClassesUsingEmployeeDetails.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\18.ClassesUsingEmployeeDetails\obj\Debug\net5.0\18.ClassesUsingEmployeeDetails.genruntimeconfig.cache
