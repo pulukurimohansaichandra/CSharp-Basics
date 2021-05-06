@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\bin\Debug\net5.0\EmployessClasses.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\bin\Debug\net5.0\EmployessClasses.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\bin\Debug\net5.0\EmployessClasses.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\bin\Debug\net5.0\EmployessClasses.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\bin\Debug\net5.0\EmployessClasses.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\bin\Debug\net5.0\ref\EmployessClasses.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\bin\Debug\net5.0\EmployessClasses.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\ref\EmployessClasses.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\EmployessClasses\obj\Debug\net5.0\EmployessClasses.genruntimeconfig.cache

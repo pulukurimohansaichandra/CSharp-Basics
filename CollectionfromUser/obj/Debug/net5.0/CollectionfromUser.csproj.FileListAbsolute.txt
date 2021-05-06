@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\bin\Debug\net5.0\CollectionfromUser.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\bin\Debug\net5.0\CollectionfromUser.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\bin\Debug\net5.0\CollectionfromUser.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\bin\Debug\net5.0\CollectionfromUser.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\bin\Debug\net5.0\CollectionfromUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\bin\Debug\net5.0\ref\CollectionfromUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\bin\Debug\net5.0\CollectionfromUser.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\ref\CollectionfromUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\Basic of C#\CollectionfromUser\obj\Debug\net5.0\CollectionfromUser.genruntimeconfig.cache

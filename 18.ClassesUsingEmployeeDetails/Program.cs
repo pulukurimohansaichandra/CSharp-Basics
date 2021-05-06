@@ -17,19 +17,19 @@ namespace _18.ClassesUsingEmployeeDetails
                 employees[counter] = new Employee();
                 employees[counter].EmployeeId = " " + (counter + 1);
                 /////////////////////////////////////////////////////
-                Console.WriteLine($"Enter employee{counter + 1} First Name ");
+                Console.WriteLine($"Enter employee {counter + 1} First Name ");
                 string firstname = Console.ReadLine();
                 employees[counter].FirstName = firstname;
                 //////////////////////////////////////////////////////
-                Console.WriteLine($"Enter employee{counter + 1} Last  Name ");
+                Console.WriteLine($"Enter employee {counter + 1} Last  Name ");
                 string lastname = Console.ReadLine();
                 employees[counter].LastName = lastname;
                 //////////////////////////////////////////////////////////////
-                Console.WriteLine($"Enter employee{counter + 1} Role");
+                Console.WriteLine($"Enter employee {counter + 1} Role");
                 string role = Console.ReadLine();
                 employees[counter].Role = role;
                 /////////////////////////////////////////////////////////
-                Console.WriteLine($"Enter employee{counter + 1} Salary ");
+                Console.WriteLine($"Enter employee {counter + 1} Salary ");
                 int salary = int.Parse(Console.ReadLine());
                 employees[counter].Salary = salary;
                 //////////////////////////////////////////////////////////
@@ -56,15 +56,15 @@ namespace _18.ClassesUsingEmployeeDetails
                 {
                     Console.WriteLine($"---------------------------------------------------");
                     Console.WriteLine($"EmployeeID  {employees[counter].EmployeeId}");
-                    Console.WriteLine($"Full Name{employees[counter].FirstName + employees[counter].LastName}");
-                    Console.WriteLine($"Role {employees[counter].Role}");
-                    Console.WriteLine($"Salary {employees[counter].Salary}");
+                    Console.WriteLine($"Full Name:-{employees[counter].FirstName + employees[counter].LastName}");
+                    Console.WriteLine($"Role :-{employees[counter].Role}");
+                    Console.WriteLine($"Salary:- {employees[counter].Salary}");
                     Console.WriteLine($"---------------------------------------------------");
                 }
             }
         }
 
-        
+
     }
 
 
@@ -85,7 +85,7 @@ namespace _18.ClassesUsingEmployeeDetails
             }
             set
             {
-              _employeeId=value;
+                _employeeId = value;
             }
         }
         public string FirstName
@@ -95,7 +95,7 @@ namespace _18.ClassesUsingEmployeeDetails
             set
             {
 
-                if (value !=" ")
+                if (value != " ")
                 {
                     _firstName = value;
                 }

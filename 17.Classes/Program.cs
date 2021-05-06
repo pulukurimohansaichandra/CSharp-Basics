@@ -8,16 +8,20 @@ namespace _17.Classes
         static void Main(string[] Args)
         {
 
+
             char userSelect = ' ';
-            ElectronicDevicesShop user1 = new ElectronicDevicesShop();
+            ElectronicDevicesShop gopi= new ElectronicDevicesShop();
             Console.WriteLine("Welcome to Electronic Shop ");
             Console.WriteLine("---------------------------");
+            // epudu use1 anedhi oka object e object use cheskoni oka task chestham
+
+
 
 
             do
             {
 
-                user1.GetShopItems();
+                gopi.GetShopItems();
                 Console.WriteLine("Please Enter the Choice ");
                 byte userChoice = byte.Parse(Console.ReadLine());
                 switch (userChoice)
@@ -26,35 +30,35 @@ namespace _17.Classes
                         {
                             Console.WriteLine("Please Enter the Number Resistors");
                             int userResitors = int.Parse(Console.ReadLine());
-                            user1.Resitors = userResitors;
+                            gopi.Resitors = userResitors;
                         }
                         break;
                     case 2:
                         {
                             Console.WriteLine("Please Enter the Number Transistors");
                             int userTransistors = int.Parse(Console.ReadLine());
-                            user1.Transistors = userTransistors;
+                            gopi.Transistors = userTransistors;
                         }
                         break;
                     case 3:
                         {
                             Console.WriteLine("Please Enter the Number Diodes");
                             int userDiodes = int.Parse(Console.ReadLine());
-                            user1.Diodes = userDiodes;
+                            gopi.Diodes = userDiodes;
                         }
                         break;
                     case 4:
                         {
                             Console.WriteLine("Please Enter the Number BreadBoard");
                             int userBreadBoard = int.Parse(Console.ReadLine());
-                            user1.BreadBoard = userBreadBoard;
+                            gopi.BreadBoard = userBreadBoard;
                         }
                         break;
                     case 5:
                         {
                             Console.WriteLine("Please Enter the Number DcMotors");
                             int userDcMotors = int.Parse(Console.ReadLine());
-                            user1.DcMotors = userDcMotors;
+                            gopi.DcMotors = userDcMotors;
                         }
                         break;
                 }
@@ -64,7 +68,7 @@ namespace _17.Classes
                 userSelect = char.Parse(Console.ReadLine());
             } while (userSelect == 'y');
 
-            user1.GetUserBill();
+            gopi.GetUserBill();
 
 
         }
@@ -239,7 +243,7 @@ namespace _17.Classes
             Console.WriteLine($" BreadBoard         {_userBreadBoard}    ");
             Console.WriteLine($" DcMotors           {_userDcmotors}      ");
             Console.WriteLine($"-------------------------------------");
-            Console.WriteLine($"Total                {_userResistor + _userTransistor + _userDiodes + _userDcmotors+_userBreadBoard}");
+            Console.WriteLine($"Total                {_userResistor + _userTransistor + _userDiodes + _userDcmotors + _userBreadBoard}");
             Console.WriteLine("-------------------------------------");
 
 
